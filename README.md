@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# NewsLaunch - A React App
+
+Another react app i have created which is one news app. The name is this news app is NewsLaunch. NewsLaunch shows you letest news of the diffrent categories like sports, entertainment, science, business, health and many other categories. The news are coming through NewsAPI. So, check out this real time react news application and thank you for visit!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Author
+
+- [@dattpanchal04](https://github.com/dattpanchal04)
 
 ## Available Scripts
 
@@ -68,3 +74,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dattpanchal04)
+
+
+## 🚀 About Me
+
+I'm datt from india. I'm Electronics & Communication ( EC ) Engineering Student. I'm 18 years old. I love to do coding in Python, C Programming, In Web-Development Languages like CSS & Javascript. So, this is brief indroduction about me. Thank you for visit !
+
+
+## 🛠 Skills
+
+- HTML, CSS & Javascript
+- Python Programming
+- C Programming
+- Coding In Git
+- Electronics Related Work
+
+
+## Feedback
+
+If you have any feedback, please send me at dattpanchal2904@gmail.com
