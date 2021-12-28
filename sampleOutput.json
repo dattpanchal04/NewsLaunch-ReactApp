@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Drakeo the Ruler dies after stabbing at LA music festival - BBC News",
+            "description": "The 28-year-old was stabbed during an altercation backstage at a Los Angeles music festival.",
+            "url": "https://www.bbc.com/news/world-us-canada-59720744",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0FDA/production/_122285040_gettyimages-1359790270.jpg",
+            "publishedAt": "2021-12-20T08:44:56Z",
+            "content": "Image source, Getty Images\r\nImage caption, The rapper had more than 1.5m monthly listeners on Spotify\r\nUS rapper Drakeo the Ruler has died after being stabbed at a music festival in Los Angeles.\r\nThe… [+3840 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Karol Suarez, Rafael Romo, Helen Regan and Hira Humayun, CNN",
+            "title": "Leftist Gabriel Boric, 35, wins Chile's presidential election - CNN",
+            "description": "Leftist and former student leader Gabriel Boric, 35, will become Chile's youngest President after he won a presidential runoff election on Sunday.",
+            "url": "https://www.cnn.com/2021/12/19/americas/chile-election-gabriel-boric-intl-nk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211219202245-chilean-president-elect-gabriel-boric-super-tease.jpg",
+            "publishedAt": "2021-12-20T08:07:00Z",
+            "content": "(CNN)Leftist and former student leader Gabriel Boric, 35, will become Chile's youngest President after he won a presidential runoff election on Sunday.\r\nWith 99.95% of ballots counted, Boric won with… [+5242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Hugo Lowell",
+            "title": "Why Trump appears deeply unnerved as Capitol attack investigation closes in - The Guardian",
+            "description": "Flurry of recent revelations raises the specter that the committee is swiftly heading towards an incriminating conclusion",
+            "url": "https://amp.theguardian.com/us-news/2021/dec/20/capitol-attack-investigation-closes-in-trump",
+            "urlToImage": null,
+            "publishedAt": "2021-12-20T07:02:00Z",
+            "content": "Donald TrumpFlurry of recent revelations raises the specter that the committee is swiftly heading towards an incriminating conclusion\r\nMon 20 Dec 2021 07.00 GMT\r\nDonald Trump is increasingly agitated… [+8668 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Mike Triplett",
+            "title": "New Orleans Saints stymie Tom Brady again in stunning shutout win over Tampa Bay Buccaneers - ESPN",
+            "description": "The Saints shut out Tom Brady for the first time since 2006 in Sunday's 9-0 victory over the Buccaneers.",
+            "url": "https://www.espn.com/nba/story/_/id/32907860/new-orleans-saints-stymie-tom-brady-again-stunning-shutout-win-tampa-bay-buccaneers",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1220%2Fr953385_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-12-20T06:57:40Z",
+            "content": "TAMPA, Fla. -- Replacement head coach Dennis Allen couldn't exactly give the game ball to his defensive coordinator Sunday night after the New Orleans Saints delivered a stunning 9-0 shutout over the… [+4425 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He, CNN Business",
+            "title": "SenseTime reopens IPO, but excludes US investors - CNN",
+            "description": "Chinese artificial intelligence giant SenseTime has revived its $767 million initial public offering, just days after it had delayed its public debut after being hit by another US blacklist.",
+            "url": "https://www.cnn.com/2021/12/20/business/sensetime-relaunch-ipo-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211220005026-sensetime-hq-1213-unlimited-super-tease.jpg",
+            "publishedAt": "2021-12-20T06:29:00Z",
+            "content": "Hong Kong (CNN Business)Chinese artificial intelligence giant SenseTime has revived its $767 million initial public offering, just days after it had delayed its public debut after being hit by anothe… [+2169 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Manchin delivers potential fatal blow to Biden's $1.75 trillion spending bill - Reuters",
+            "description": "U.S. Senator Joe Manchin, a moderate Democrat who is key to President Joe Biden's hopes of passing a $1.75 trillion domestic investment bill, said on Sunday he would not support the package, drawing a sharp rebuke from the White House.",
+            "url": "https://www.reuters.com/world/us/senator-manchin-says-he-is-no-bidens-domestic-investment-bill-fox-interview-2021-12-19/",
+            "urlToImage": "https://www.reuters.com/resizer/9EPiW-pb4WQcjy1Y6pwb7h0oj4M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OKFASC66CZLK5ONDCY7P5RAVFM.jpg",
+            "publishedAt": "2021-12-20T05:59:00Z",
+            "content": "WASHINGTON, Dec 20 (Reuters) - U.S. Senator Joe Manchin, a moderate Democrat who is key to President Joe Biden's hopes of passing a $1.75 trillion domestic investment bill, said on Sunday he would no… [+4874 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jinky Jorgio and Akanksha Sharma, CNN",
+            "title": "Death toll from Super Typhoon Rai climbs to at least 208 in the Philippines - CNN",
+            "description": "At least 208 people were killed and hundreds of thousands more displaced after the strongest typhoon to hit the Philippines this year wreaked havoc across the archipelago, causing widespread damage and flooding.",
+            "url": "https://www.cnn.com/2021/12/19/asia/super-typhoon-rai-philippines-75-dead-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211216214851-01-super-typhoon-rai-death-super-tease.jpg",
+            "publishedAt": "2021-12-20T05:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Adam Bankhurst",
+            "title": "Hades Makes History as the First Video Game to Win a Hugo Award - IGN",
+            "description": "Supergiant Games' Hades has made history as it has officially become the first video game to win a Hugo Award.",
+            "url": "https://www.ign.com/articles/hades-makes-history-as-the-first-video-game-to-win-a-hugo-award",
+            "urlToImage": "https://assets-prd.ignimgs.com/2021/12/20/haees-1623605972205-1639974485533.jpg?width=1280",
+            "publishedAt": "2021-12-20T04:31:15Z",
+            "content": "Supergiant Games' Hades has made history as it has officially become the first video game to win a Hugo Award.\r\nThe Hugo Awards were first presented in 1953 and honor the best works in science fictio… [+3132 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Rosy Cordero",
+            "title": "Carlos Marín Dies: Il Divo Singer Was 53 - Deadline",
+            "description": "Il Divo singer Carlos Marín died at the age of 53 in Manchester on Sunday. The cause of death has not been confirmed but it follows a recent hospitalization. The surviving members of the quartet confirmed the news via social media. “It is with heavy hearts th…",
+            "url": "https://deadline.com/2021/12/carlos-marin-dies-il-divo-singer-1234899463/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/12/AP21354082487724.jpg?w=1024",
+            "publishedAt": "2021-12-20T04:15:00Z",
+            "content": "Il Divo singer Carlos Marín died at the age of 53 in Manchester on Sunday. The cause of death has not been confirmed but it follows a recent hospitalization.\r\nThe surviving members of the quartet con… [+1538 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Monique Beals",
+            "title": "New Zealand links death to Pfizer COVID vaccine: 'it remains safer to be vaccinated' | TheHill - The Hill",
+            "description": "Health authorities in New Zealand have said they believe a 26-yea...",
+            "url": "https://thehill.com/policy/healthcare/586516-new-zealand-links-26-year-olds-death-to-pfizer-covid-vaccine",
+            "urlToImage": "https://thehill.com/sites/default/files/newsletter-pfizervaccine_110821getty.jpg",
+            "publishedAt": "2021-12-20T03:53:56Z",
+            "content": "Health authorities in New Zealand have said they believe a 26-year-old man's death is connected to a side effect from Pfizer's COVID-19 vaccine.\r\nA preliminary post-mortem analysis indicated that the… [+1344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Mike Murphy",
+            "title": "Dow futures slide more than 250 points as market worries mount - MarketWatch",
+            "description": "Crude prices also fall as omicron and central bank moves weigh on investors’ minds",
+            "url": "https://www.marketwatch.com/story/dow-futures-slide-nearly-300-points-as-market-worries-mount-11639972424",
+            "urlToImage": "https://images.mktw.net/im-452574/social",
+            "publishedAt": "2021-12-20T03:53:00Z",
+            "content": "U.S. stock-index futures fell Sunday night, following a losing week on Wall Street amid worries about Fed policy and the fast-spreading omicron variant of COVID-19.\r\nDow Jones Industrial Average futu… [+1435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Watch Jake Paul's KNOCKOUT Rematch With Tyron Woodley - Entertainment Tonight",
+            "description": "Watch highlights from Jake Paul and Tyron Woodley’s ‘Leave No Doubt’ rematch, which was held on Saturday night at Amalie Arena in Tampa, Florida. Paul knocke...",
+            "url": "https://www.youtube.com/watch?v=tMqBqRMlzZs",
+            "urlToImage": "https://i.ytimg.com/vi/tMqBqRMlzZs/maxresdefault.jpg",
+            "publishedAt": "2021-12-20T03:35:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Jody Serrano",
+            "title": "NASA Releases an Audio Clip of What Jupiter’s Icy Moon Ganymede Sounds Like - Gizmodo",
+            "description": "The space agency created a 50-second audio track with the data gathered by its Juno spacecraft during its flyby of the gigantic moon earlier this year.",
+            "url": "https://gizmodo.com/nasa-releases-an-audio-clip-of-what-jupiter-s-icy-moon-1848243513",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0964e54f1a8ae3c5040c3f9399f38163.jpg",
+            "publishedAt": "2021-12-20T03:34:00Z",
+            "content": "Imagining Ganymede, Jupiters icy moon and the largest moon in our Solar System, can be quite the challenge. (Im still at, Whoa, thats a big moon.) Understanding it is a whole other story, and scienti… [+1796 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Associated Press",
+            "title": "Netherlands 'going into lockdown again' to curb omicron - Fox Business",
+            "description": "Nations across Europe moved to reimpose tougher measures to stem a new wave of COVID-19 infections spurred by the highly transmissible omicron variant, with the Netherlands leading the way by imposing a nationwide lockdown.",
+            "url": "https://www.foxbusiness.com/markets/netherlands-going-into-lockdown-again-to-curb-omicron",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/0/0/AP21352650572075.jpg?ve=1&tl=1",
+            "publishedAt": "2021-12-20T03:11:05Z",
+            "content": "Nations across Europe moved to reimpose tougher measures to stem a new wave of COVID-19 infections spurred by the highly transmissible omicron variant, with the Netherlands leading the way by imposin… [+7269 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Hong Kong: Pro-Beijing candidates sweep controversial LegCo election - BBC News",
+            "description": "The results for the controversial poll come after the city saw its lowest ever voter turnout.",
+            "url": "https://www.bbc.com/news/world-asia-china-59717343",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16376/production/_122289909_mediaitem122289908.jpg",
+            "publishedAt": "2021-12-20T03:04:06Z",
+            "content": "Media caption, How China has reshaped Hong Kong ahead of elections\r\nPro-Beijing candidates have claimed an overwhelming victory in Hong Kong's controversial Legislative Council (LegCo) election, as t… [+3714 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Morgan Hines",
+            "title": "'Everything was so confusing': 44 people test positive for COVID on Royal Caribbean Symphony of the Seas ship - USA TODAY",
+            "description": "All passengers age 12 and older were required to be fully vaccinated and to test negative to board the Symphony of the Seas ship.",
+            "url": "https://www.usatoday.com/story/travel/cruises/2021/12/19/cruise-ship-covid-cases-royal-caribbean/8960209002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/19/USAT/6bc80fe5-780d-48b2-9038-aaa31b8c9533-AP_CDC-Practice_Cruises_1.jpg?crop=5471,3078,x0,y278&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2021-12-20T03:00:19Z",
+            "content": "Federal health officials have extended for nearly three more months its rules that cruise ships must follow to sail during the pandemic.The U.S. Centers for Disease Control and Prevention said the ex… [+6041 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Tyler Sullivan",
+            "title": "Packers at Ravens score: Green Bay narrowly escapes Tyler Huntley-led comeback attempt, clinches NFC North - CBSSports.com",
+            "description": "Green Bay clinches NFC North at 11-3 after Baltimore goes for two in final minute and fails",
+            "url": "https://www.cbssports.com/nfl/news/packers-at-ravens-score-green-bay-narrowly-escapes-tyler-huntley-led-comeback-attempt-clinches-nfc-north/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/12/20/b6a191a9-e4c0-442a-9269-ab1dabd13a1d/thumbnail/1200x675/209148c87eda220260ac4faa0d21cf44/template-pic.jpg",
+            "publishedAt": "2021-12-20T02:09:00Z",
+            "content": "The Green Bay Packers have moved to 11-3 on the season and have officially clinched the NFC North after narrowly defeating the Ravens in Baltimore 31-30. This game came right down to the wire as quar… [+6021 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WSB Atlanta"
+            },
+            "author": "WSBTV.com News Staff",
+            "title": "Former Georgia U.S. Senator Johnny Isakson dies at age 76 - WSB Atlanta",
+            "description": "Isakson passed away Sunday morning at age 76 after battling Parkinson’s disease. Channel 2 Action News will have special coverage remembering Isakson throughout the day.",
+            "url": "https://www.wsbtv.com/news/local/atlanta/former-georgia-senator-johnny-isakson-dies-age-76/HURLXHCT6NEYNBQG7PD2UD22T4/",
+            "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/3lGPyZOq3DdL1-xj2UA7l_4gf8E=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/PIJZ477Z7EGNSIUXIJVESHLMKM.jpg",
+            "publishedAt": "2021-12-20T01:47:00Z",
+            "content": "ATLANTA — Statesman, guardsman and even Bulldog are just a few of the titles former Senator Johnny Isakson has held throughout his life of service to our country.\r\nIsakson passed away Sunday morning … [+7254 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Laura Newberry, Alex Wigglesworth",
+            "title": "COVID-19 cases continue to rise in L.A. County as Californians brace for winter surge - Los Angeles Times",
+            "description": "L.A. County health officials reported more than 3,500 new coronavirus cases on Sunday, more than double the number of cases recorded just a few days before.",
+            "url": "https://www.latimes.com/california/story/2021-12-19/new-covid-numbers",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/81dc664/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F03%2F63%2F89a8ed314725ae726401331e7abc%2Fla-photos-1staff-882211-me-covid-testing-lax-gem-007.jpg",
+            "publishedAt": "2021-12-20T01:36:00Z",
+            "content": "Los Angeles County health officials reported 3,512 new coronavirus cases on Sunday, more than double the number of cases recorded just a few days before. \r\nThat tally follows 3,730 new cases reported… [+2768 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Sens. Warren and Booker test positive for breakthrough COVID - Associated Press",
+            "description": "WASHINGTON (AP) — Sens. Elizabeth Warren of Massachusetts and Cory Booker of New Jersey say they have tested positive for COVID-19, as the country deals with another surge in cases and the emergence of the omicron variant.",
+            "url": "https://apnews.com/8a0a3a7469ed0b4de6017784ceac7bc5",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/55697e938b974fdc92a814316fe8c70d/3000.jpeg",
+            "publishedAt": "2021-12-20T01:11:24Z",
+            "content": "WASHINGTON (AP) Sens. Elizabeth Warren of Massachusetts and Cory Booker of New Jersey say they have tested positive for COVID-19, as the country deals with another surge in cases and the emergence of… [+1012 chars]"
+        }
+    ]
+}
