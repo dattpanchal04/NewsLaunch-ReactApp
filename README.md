@@ -4,6 +4,16 @@ Another react app i have created which is one news app. The name is this news ap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+- Some Screenshots
+  
+![Screenshot (189)](https://user-images.githubusercontent.com/94067118/155365333-ec3eb9bf-2e37-4e71-a805-82ed21c759e9.png)
+
+![Screenshot (191)](https://user-images.githubusercontent.com/94067118/155365326-ed60a6a6-1c70-49b9-b383-be353da8bfd6.png)
+
+- Choose different types of news categories
+
+![Screenshot (190)](https://user-images.githubusercontent.com/94067118/155365312-87a4e18a-272d-4785-8b9b-afc69f4a89bb.png)
+
 ## Author
 
 - [@dattpanchal04](https://github.com/dattpanchal04)
